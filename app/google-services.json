@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1078774848842",
+    "project_id": "turisticheskaknizhka",
+    "storage_bucket": "turisticheskaknizhka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078774848842:android:a26a072a89ecc0e5dcf5b3",
+        "android_client_info": {
+          "package_name": "com.example.touristpasport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDekTPOdUxuRvfeE5hL6XmjUhy7fprBB-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078774848842:android:581c8a684a3147d8dcf5b3",
+        "android_client_info": {
+          "package_name": "com.example.turist_pasport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDekTPOdUxuRvfeE5hL6XmjUhy7fprBB-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078774848842:android:7db9f96bb6677083dcf5b3",
+        "android_client_info": {
+          "package_name": "com.example.turisticheska_knizhka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDekTPOdUxuRvfeE5hL6XmjUhy7fprBB-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
